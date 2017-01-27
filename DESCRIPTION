@@ -1,0 +1,13 @@
+Package: berkson
+Title: Berkson's logit via minimum logit chi square
+Version: 0.0.0.9000
+Authors@R: person("Aleksei", "Shchetinin", email = "antideprime@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends:
+    R (>= 3.3.1),
+    magrittr,
+    dplyr
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
